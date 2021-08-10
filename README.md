@@ -18,6 +18,7 @@ Numpy,
 Pandas
 
 Conclusion - 
+NATHANIEL FORD is the highest paid person in all the employees.
 
 
 
